@@ -20,7 +20,7 @@
     "@playlyfe/gql": "^2.6.2",
     "aws-amplify": "^1.1.36",
     "immer": "^3.2.0",
-    "nanoid": "^2.1.0",
+    "nanoid": "^3.1.31",
     "next": "^9.0.5",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
